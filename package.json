@@ -61,13 +61,16 @@
     "sass": "^1.50.1",
     "supertest": "^6.2.2",
     "tsx": "^3.12.7",
-    "typescript": "^5.1.6",
+    "typescript": "^5.2.2",
     "vite": "^4.4.9",
     "vitest": "^0.34.1"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.17.2",
+    "faiss-node": "^0.3.0",
     "knex": "^2.5.1",
+    "langchain": "^0.0.150",
     "sqlite3": "^5.1.6",
     "superagent": "7.1.1"
   },
